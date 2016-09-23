@@ -8,6 +8,9 @@ Many hours later, and I had roughly redesigned most of the aircraft frame. I had
 
 When I was finished that first rough draft on my first night cram session I stood back and took a look at the frame and lift mechanism I had designed. I hadn't started on a fairing then. For some reason, the lump back where the battery goes and stubby little snout where the gimbal frame is reminded me of a fat stubby angry little predator fish. Not the lean fast fish like a tuna, but something maneuverable, still pretty fast, but much shorter and more agile. I went online to find out what kind of predator fish was short fat stubby and nasty. I found a photo of Piranha. I knew straight away that is what I had designed, a Piranha. And so I copied the photo of the pirahna in as a canvas and started work on my fairing.
 
+##Warning -- under design
+You are very welcome to make a fork of this design and to download the parts and print them. However, please be aware, this design is still a work in progress. Parts may not fit, or may break in use. Things may change and different versions of parts may not be compatible with versions of parts that you have printed. You might need to print things multiple times or find that parts fail during printing. All these challenges mean that, for now, the responsibility of starting and finishing an OI Piranha is not small. If you do take on the job your feedback is valued. Send your feedback good and bad to [Dale](mailto://hello@dalerogers.com.au)
+
 ##Credits
 The Pirahna wouldn't exist if there weren't other DJI Inspired quadcopters before mine.
 The first DJI Inspired was designed by [BlackBox RC](http://www.blackboxrc.co.uk/)
