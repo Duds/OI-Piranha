@@ -21,4 +21,8 @@ Many other contributors at [RCGroups](http://www.rcgroups.com/forums/showthread.
 
 You can also find Thingiverse makes of the [BlackBox RC DJI Inspire](http://www.thingiverse.com/thing:593132) and, the [Fragmaster DJI Inspired V1.5](http://www.thingiverse.com/thing:909384)
 
+I humbly apologise if you have contributed to the development of the DJI Inspired family of 3d printed quadcopters and you think you deserve mention. Please drop me an email at hello@dalerogers.com.au and I will correct the oversight. 
 
+Those credited above have contributed to a great design, but all errors are mine.
+
+Dale
