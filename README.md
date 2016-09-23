@@ -17,8 +17,8 @@ The first DJI Inspired was designed by [BlackBox RC](http://www.blackboxrc.co.uk
 The BlackBox RC DJI Inspired was then modified, as the DJI Inspired v1.5 by Fragmaster on [RCGroups](http://www.rcgroups.com/forums/showthread.php?t=2399740)
 
 Fragmaster was substantially supported during design by feedback and contributions from:
-Helifrek,
-Mr.RCCAM,
+[Helifrek](http://www.rcgroups.com/forums/showthread.php?t=2330047),
+[Mr.RCCAM](http://www.rc-cam.com/),
 RTRyder, and
 Many other contributors at [RCGroups](http://www.rcgroups.com/forums/showthread.php?t=2399740)
 
