@@ -22,7 +22,8 @@ The BlackBox RC DJI Inspired was then modified, as the DJI Inspired v1.5 by Frag
 Fragmaster was substantially supported during design by feedback and contributions from:
 [Helifrek](http://www.rcgroups.com/forums/showthread.php?t=2330047),
 [Mr.RCCAM](http://www.rc-cam.com/),
-RTRyder, and
+RTRyder,
+[VladMiami](http://www.rcgroups.com/forums/showthread.php?t=2736573), and
 many other contributors at [RCGroups](http://www.rcgroups.com/forums/showthread.php?t=2399740)
 
 You can also find Thingiverse makes of the [BlackBox RC DJI Inspire](http://www.thingiverse.com/thing:593132) and, the [Fragmaster DJI Inspired V1.5](http://www.thingiverse.com/thing:909384)
