@@ -1,5 +1,7 @@
 Credits
 
+The Pirahna design is supported by feedback from @whitedrag0n, @corwest and @stanv
+
 The Pirahna wouldn't exist if there weren't other DJI Inspired quadcopters before mine. The first DJI Inspired was designed by BlackBox RC The BlackBox RC DJI Inspired was then modified, as the DJI Inspired v1.5 by Fragmaster on RCGroups
 
 Fragmaster was substantially supported during design by feedback and contributions from: Helifrek, Mr.RCCAM, RTRyder, VladMiami, and many other contributors at RCGroups
